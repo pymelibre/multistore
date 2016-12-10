@@ -1,0 +1,35 @@
+<?php
+// Text
+$_['text_new_subject']          = '%s - Pedido %s';
+$_['text_new_greeting']         = 'Gracias por su inter&eacute;s en los productos %s. Su pedido ha sido recibido y ser&aacute; procesado una vez que el pago ha sido confirmado.';
+$_['text_new_received']         = 'Usted ha recibido un pedido.';
+$_['text_new_link']             = 'Para ver su pedido haga click en el siguiente enlace:';
+$_['text_new_order_detail']     = 'Detalles del Pedido';
+$_['text_new_instruction']      = 'Instruciones';
+$_['text_new_order_id']         = 'Pedido ID:';
+$_['text_new_date_added']       = 'Fecha Pedido:';
+$_['text_new_order_status']     = 'Estado del Pedido:';
+$_['text_new_payment_method']   = 'M&eacute;todo de Pago:';
+$_['text_new_shipping_method']  = 'M&eacute;todo de Env&iacute;o:';
+$_['text_new_email']  			= 'E-mail:';
+$_['text_new_telephone']  		= 'Tel&eacute;fono:';
+$_['text_new_ip']  				= 'Direcci&oacute;n IP:';
+$_['text_new_payment_address']  = 'Direcci&oacute;n de Pago';
+$_['text_new_shipping_address'] = 'Direcci&oacute;n de Env&iacute;o';
+$_['text_new_products']         = 'Productos';
+$_['text_new_product']          = 'Producto';
+$_['text_new_model']            = 'Modelo';
+$_['text_new_quantity']         = 'Cantidad';
+$_['text_new_price']            = 'Precio';
+$_['text_new_order_total']      = 'Total de Pedidos';
+$_['text_new_total']            = 'Total';
+$_['text_new_download']         = 'Una vez que su pago ha sido confirmado puede hacer clic en el enlace de abajo para acceder a sus productos descargables:';
+$_['text_new_comment']          = 'Los comentarios de su pedido son:';
+$_['text_new_footer']           = 'Por favor, responda a este correo electr&oacute;nico si usted tiene alguna pregunta.';
+$_['text_update_subject']       = '%s - Pedido actualizado %s';
+$_['text_update_order']         = 'Pedido ID:';
+$_['text_update_date_added']    = 'Fecha de Pedido:';
+$_['text_update_order_status']  = 'Su pedido ha sido actualizado para el siguiente estado:';
+$_['text_update_comment']       = 'Los comentarios de su pedido son:';
+$_['text_update_link']          = 'Para ver su orden haga click en el siguiente enlace::';
+$_['text_update_footer']        = 'Por favor, responda a este correo electr&oacute;nico si usted tiene alguna pregunta.';
